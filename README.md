@@ -13,8 +13,17 @@ Les membres de la team : @Elmousski, @Joelthp, @Emilie5520 and @CharlotteHouivet
 
 1. Clone this repository
 
+2. Install all the gems
 ```sh
-$ et demerde de toi, t'as cru qu'on était ta mère ?
+$ bundle install
+```
+3. Migrate db files
+```sh
+$ rails db:migrate
+```
+4. Execute seed file
+```sh
+$ rails db:seed
 ```
 6. Visit the [online version](https://best-landing-project.herokuapp.com/)
 
