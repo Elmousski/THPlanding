@@ -1,24 +1,23 @@
-# README
+# Project : UI Sprint Design
+### Project Week 7, Day 4
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Team members : @Elmousski, @Joelthp, @Emilie5520 and @CharlotteHouivet.
 
-Things you may want to cover:
+### Assignment
 
-* Ruby version
+Build 3 landing page using bootstrap and build tools to communicate
 
-* System dependencies
 
-* Configuration
+### How to execute the program ? 
 
-* Database creation
+1. Clone this repository
 
-* Database initialization
+```sh
+$ Open HTML file
+```
+6. Visit the [online version](https://best-landing-project.herokuapp.com/)
 
-* How to run the test suite
+# En cadeau un doggo beaucoup trop stylé
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
+![alt text](http://image.noelshack.com/fichiers/2018/46/2/1542129946-28ywvs.jpg)
