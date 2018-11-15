@@ -19,4 +19,27 @@
   opacity: 1;
 }
 
+  #mc_embed_signup {
+    clear:left; 
+    font:25px Helvetica,Arial,sans-serif; 
+    width:100%;
+  }
 
+  #mc-embedded-subscribe-form input[type=checkbox] {
+    display: inline; 
+    width: 500px;
+    margin-right: 1000px;
+  }
+
+  #mergeRow-gdpr {
+    margin-top: 5px;
+  }
+
+  #mergeRow-gdpr fieldset label {
+    font-weight: normal;
+  }
+
+  #mc-embedded-subscribe-form .mc_fieldset {
+    border:none;
+    min-height: 0px;padding-bottom:0px;
+  }
