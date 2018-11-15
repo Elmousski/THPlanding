@@ -1,19 +1,20 @@
 # Project : UI Sprint Design
 ### Project Week 7, Day 4
 
-Team members : @Elmousski, @Joelthp, @Emilie5520 and @CharlotteHouivet.
+Les membres de la team : @Elmousski, @Joelthp, @Emilie5520 and @CharlotteHouivet.
 
-### Assignment
+### Mission
 
-Build 3 landing page using bootstrap and build tools to communicate
-
+- Construire 3 landing pages responsive ciblées pour récupérer des contacts mails via mailchimp.
+- Construire 2 outils de communication pour faire de la visibilité
+- Suivre le trafic
 
 ### How to execute the program ? 
 
 1. Clone this repository
 
 ```sh
-$ Open HTML file
+$ et demerde de toi, t'as cru qu'on était ta mère ?
 ```
 6. Visit the [online version](https://best-landing-project.herokuapp.com/)
 
