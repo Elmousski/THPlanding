@@ -1,4 +1,4 @@
-# Project : UI Sprint Design
+# Project : Landing Page THP
 ### Project Week 7, Day 4
 
 Les membres de la team : @Elmousski, @Joelthp, @Emilie5520 and @CharlotteHouivet.
