@@ -64,3 +64,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'bootstrap'
 gem 'sprockets-rails'
 gem 'jquery-rails'
+gem 'twitter'
+gem 'dotenv'
+gem 'nokogiri'
+gem 'json'
+gem 'pp'
