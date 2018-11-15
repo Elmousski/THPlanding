@@ -18,7 +18,16 @@ $ et demerde de toi, t'as cru qu'on était ta mère ?
 ```
 6. Visit the [online version](https://best-landing-project.herokuapp.com/)
 
+### Ce qu'on a fait 
+
+Opération marketing : - Un bot twitter qui va rechercher les tweets qui comprennent le mot ‘développeur’ et publier un tweet en reprenant leur pseudo pour leur parler de notre super site. - Un scrappeur qui va récupérer l’email des mairies du nord (en référence à Maubeuge) pour par la suite pouvoir écrire un mail aux mairies concernées.
+
+3 Landingpage : On s'est tapé une mission intégration d'un template bootstrap de l'enfer sur deux jours et une fois installé (vers 12h environ, on a tout rempli en contenu, images, scripts etc.
+
+Insertion de l'api mailchimp pour récupérer des mails
+
+Insertion de l'outil de tracking analytics
+
+
 # En cadeau un doggo beaucoup trop stylé
-
-
 ![alt text](http://image.noelshack.com/fichiers/2018/46/2/1542129946-28ywvs.jpg)
