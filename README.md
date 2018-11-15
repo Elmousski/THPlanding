@@ -1,24 +1,24 @@
-# README
+# Project : UI Sprint Design
+### Project Week 7, Day 4
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Les membres de la team : @Elmousski, @Joelthp, @Emilie5520 and @CharlotteHouivet.
 
-Things you may want to cover:
+### Mission
 
-* Ruby version
+- Construire 3 landing pages responsive ciblées pour récupérer des contacts mails via mailchimp.
+- Construire 2 outils de communication pour faire de la visibilité
+- Suivre le trafic
 
-* System dependencies
+### How to execute the program ? 
 
-* Configuration
+1. Clone this repository
 
-* Database creation
+```sh
+$ et demerde de toi, t'as cru qu'on était ta mère ?
+```
+6. Visit the [online version](https://best-landing-project.herokuapp.com/)
 
-* Database initialization
+# En cadeau un doggo beaucoup trop stylé
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![alt text](http://image.noelshack.com/fichiers/2018/46/2/1542129946-28ywvs.jpg)
