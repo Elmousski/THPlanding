@@ -3,6 +3,8 @@ require 'twitter'
 
 Dotenv.load
 
+class twitter
+def perform
 client = Twitter::REST::Client.new do |config|
    config.consumer_key        = ENV["CONSUMER_KEY"]
    config.consumer_secret     = ENV["CONSUMER_SECRET"]
@@ -24,4 +26,7 @@ tab_tags.each do |tag|
       client.update("Salut, @#{user} viens faire un tour ici : http...")
     end
   end
+end
+
+end
 end
