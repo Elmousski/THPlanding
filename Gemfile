@@ -65,6 +65,6 @@ gem 'bootstrap'
 gem 'sprockets-rails'
 gem 'jquery-rails'
 gem 'twitter'
-gem 'dotenv'
+
 gem 'nokogiri'
 gem 'json'
