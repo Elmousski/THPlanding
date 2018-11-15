@@ -1,0 +1,21 @@
+.mainImage {
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+
+}
+
+ 
+.nomPortrait{
+	margin: 2rem 0 0.5rem 0;
+}
+
+.overlay {
+  position: absolute;
+  background-color: #FFF;
+  height: 50%;
+  width: 100%;
+  top: 20;
+  left: 0;
+  opacity: 1;
+}
